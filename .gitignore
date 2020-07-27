@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!aliases
+!hosts
+!fstab
+
+!ssh/
+!ssh/sshd_config
+
