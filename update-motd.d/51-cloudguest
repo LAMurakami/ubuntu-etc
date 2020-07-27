@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+# CLOUD_IMG: This file was created/modified by the Cloud Image build process
+# This file is not managed by a package.  If you no longer want to
+# see this message you can safely remove the file.
+echo ""
+echo "  This instance is an AWS LAM Cloud Guest:"
+echo "    http://aws.lam1.us/About http://lamurakami.duckdns.org"
