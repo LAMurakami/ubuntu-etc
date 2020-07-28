@@ -5,6 +5,7 @@
 !.gitignore
 !aliases
 !fstab
+!gitweb.conf
 !hosts
 !hostname
 
