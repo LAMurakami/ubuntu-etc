@@ -24,8 +24,8 @@ created uploaded.  I actually cloned the repo to /tmp and uploaded
 the clone which allowed me to do it as an regular user and ignore
 the extra steps involving sudo as well as switch branches at will
 without it affecting a machines configuration.  I noticed I like
-the URLs at github which has <repo>/commit/<commit-ID> instead
-of p=<repo>;a=commit;<commit-ID> and such.  I may want to
+the URLs at github which has &lt;repo&gt;/commit/&lt;commit-ID&gt; instead
+of p=&lt;repo&gt;;a=commit;&lt;commit-ID&gt; and such.  I may want to
 investigate Rewrite rules to accomplish this.
 
 The [etckeeper](https://ubuntu.com/server/docs/tools-etckeeper)
