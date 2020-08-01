@@ -6,6 +6,7 @@
 !aliases
 !hosts
 !fstab
+!README.md
 
 !ssh/
 !ssh/sshd_config
