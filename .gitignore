@@ -9,4 +9,5 @@
 
 !ssh/
 !ssh/sshd_config
+!ssh/Banner.txt
 
