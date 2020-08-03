@@ -29,6 +29,7 @@
 
 !ssh/
 !ssh/sshd_config
+!ssh/Banner.txt
 
 !update-motd.d/
 !update-motd.d/10-help-text
