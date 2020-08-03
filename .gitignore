@@ -7,6 +7,10 @@
 !hosts
 !fstab
 
+!dovecot/
+!dovecot/conf.d/
+!dovecot/conf.d/10-master.conf
+
 !ssh/
 !ssh/sshd_config
 !ssh/Banner.txt
