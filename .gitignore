@@ -6,6 +6,7 @@
 !aliases
 !hosts
 !fstab
+!README.md
 
 !dovecot/
 !dovecot/conf.d/
