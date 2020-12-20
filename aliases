@@ -10,3 +10,9 @@ root:          ubuntu
 
 # My #blinkenshell identity
 The_One:       ubuntu
+
+# A backup user
+q:             ubuntu
+
+# An alias for Cloud-init initialization
+admin: lam2.ServerAdmin@lamurakami.com, ubuntu, lam2.ServerAdmin@lam1.us
