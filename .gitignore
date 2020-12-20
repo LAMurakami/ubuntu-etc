@@ -5,6 +5,7 @@
 !.gitignore
 !README.md
 !aliases
+!crontab
 !fstab
 !gitweb.conf
 !hosts
