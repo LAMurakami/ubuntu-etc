@@ -13,6 +13,14 @@
 
 !Backup/
 !Backup/Bk-10-Source.conf
+!Backup/Bk-94-blinkenshell.conf
+!Backup/Bk-96-Zz.conf
+!Backup/Bk-98-git.conf
+
+!Backup/Daily-ubuntu/
+!Backup/Daily-ubuntu/Bk-94-blinkenshell
+!Backup/Daily-ubuntu/Bk-96-Zz
+!Backup/Daily-ubuntu/Bk-98-git
 
 !cron.daily/
 !cron.daily/Bk-10-Source
