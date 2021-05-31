@@ -11,6 +11,7 @@
 # default value.
 
 Port 22
+Port 2222
 Port 55520
 #AddressFamily any
 #ListenAddress 0.0.0.0
@@ -23,7 +24,7 @@ HostKey /etc/ssh/ssh_host_dsa_key
 HostKey /etc/ssh/ssh_host_ecdsa_key
 HostKey /etc/ssh/ssh_host_ed25519_key
 #Privilege Separation is turned on for security
-UsePrivilegeSeparation yes
+#UsePrivilegeSeparation yes
 
 #HostKey /etc/ssh/ssh_host_rsa_key
 #HostKey /etc/ssh/ssh_host_ecdsa_key
