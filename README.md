@@ -33,7 +33,7 @@ package from the Ubuntu repositories is actually used on my
 machines with git as it's Version Control System.  I like
 that it is integrated with the Ubuntu apt package manager
 and by default does commits for each package install or
-upgrade than makes etc changes.  Although access to the
+upgrade that makes etc changes.  Although access to the
 AWS EC2 instances is by ssh public keys and password
 authentication is not enabled I still wasn't sure I wanted
 all /etc files published to all and am sure it is not best
